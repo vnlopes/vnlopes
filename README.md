@@ -11,3 +11,5 @@
             "Fazer Academia"
     }
 ```
+
+<img src="https://skillicons.dev/icons?i=cs,html,css" height=40></a>
