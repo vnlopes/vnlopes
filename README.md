@@ -6,7 +6,7 @@
         pubic String city = "Mineiros do Tietê"
 
         public String[] hobbies = {
-            "Fazer Motocross"
+            "Andar de Motocross"
             "Tocar Violão"
             "Fazer Academia"
     }
