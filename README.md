@@ -12,7 +12,7 @@
     }
 ```
 
-### <img src="https://em-content.zobj.net/source/apple/391/brain_1f9e0.png" loading="lazy" alt="iOS 17.4" class="w-auto h-20"> Conhecimentos
+### <img src="https://em-content.zobj.net/source/apple/391/brain_1f9e0.png" loading="lazy" alt="iOS 17.4" width="20px"> Conhecimentos
 
 <img src="https://skillicons.dev/icons?i=cs,html,css,tailwindcss,windows,figma" height=40></a>
 
