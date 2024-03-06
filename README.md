@@ -24,5 +24,5 @@
  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vnlopes&layout=donut&bg_color=161b22&border_color=393f48&theme=merko&card_width=950&langs_count=5"/>
 </p>
 
+ <img src='https://andreasbm.github.io/web-skills#team-collaboration'/>
 
-https://andreasbm.github.io/web-skills#team-collaboration
