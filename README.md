@@ -18,6 +18,6 @@
 
 
 <p align="start">
- <img src='https://streak-stats.demolab.com?user=vnlopes&theme=darcula&hide_border=false&mode=weekly&card_width=1000'/>
- <img class="statistic" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vnlopes&layout=donut&bg_color=161b22&border_color=393f48&theme=merko&card_width=950&langs_count=5"/>
+ <img src='https://streak-stats.demolab.com?user=vnlopes&theme=darcula&hide_border=false&mode=weekly&card_width=500'/>
+ <img class="statistic" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vnlopes&layout=donut&bg_color=161b22&border_color=393f48&theme=merko&card_width=500&langs_count=5"/>
 </p>
