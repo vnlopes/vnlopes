@@ -1,16 +1,14 @@
-### 🙋‍♂️Sobre mim
+# Hello Everyone 👋🏽
+I'am **Vinicius Lopes**, 19 years old.
 
-```js
-    public class Person {
-        public String name = "Vinicius Lopes";
-        pubic String city = "Mineiros do Tietê"
+## About me 🎖️
+I am a front-end developer, UX/UI Designer 🚀<br>
 
-        public String[] hobbies = {
-            "Andar de Motocross"
-            "Tocar Violão"
-            "Fazer Academia"
-    }
-```
+<strong>_"I make what i love, i love what i make"_.</strong>
+
+## Skills 📖
+
+### What i know
 
 ### <img src="https://em-content.zobj.net/source/apple/391/brain_1f9e0.png" loading="lazy" alt="iOS 17.4" width="20px"> Conhecimentos
 
