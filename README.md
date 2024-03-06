@@ -14,7 +14,7 @@
 
 ### 💡 Conhecimentos
 
-<img src="https://skillicons.dev/icons?i=cs,html,css,tailwindcss" height=40></a>
+<img src="https://skillicons.dev/icons?i=cs,html,css,tailwindcss,windows,apple" height=40></a>
 
 
 <p align="center">
