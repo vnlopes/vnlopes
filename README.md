@@ -7,7 +7,7 @@ I am a front-end developer, UX/UI Designer 🚀<br>
 <strong>_"I make what i love, i love what i make"_.</strong>
 
 ## Skills 📖
-<img src="https://skillicons.dev/icons?i=cs,html,css,tailwindcss,windows,figma" height=40></a>
+<img src="https://skillicons.dev/icons?i=cs,html,css,tailwindcss,windows,figma,java-script" height=40></a>
 
 
 <p align="start">
